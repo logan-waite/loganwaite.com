@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Frameworks",
+        "icon": "sitemap",
+        "widgets": [
+            {
+                "text": "Vue",
+                "query": "vue"
+            },
+            {
+                "text": "React",
+                "query": "react"
+            },
+            {
+                "text": "Angular",
+                "query": "angular"
+            }
+        ]
+    },
+    {
+        "name": "Languages",
+        "icon": "code",
+        "widgets": [
+            {
+                "text": "Javascript",
+                "query": "javascript"
+            },
+            {
+                "text": "Elm",
+                "query": "elm"
+            },
+            {
+                "text": "Python",
+                "query": "python"
+            }
+        ]
+    },
+    {
+        "name": "Jobs",
+        "icon": "terminal",
+        "widgets": []
+    },
+    {
+        "name": "Design",
+        "icon": "eye",
+        "widgets": []
+    },
+    {
+        "name": "Random",
+        "icon": "gamepad-alt",
+        "widgets": []
+    }
+]
